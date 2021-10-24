@@ -54,5 +54,5 @@ Assuming the typical user is like myself, which means that if the application is
 <br>
 
 <h4>
-
+My first approach when first starting the design for this software was looking at the requirments, end users, and pontential structures for the application.  My basically strategy was first to analazye the requirments that the client wants.  Then from there, next is to look at the type of users what will end up using this application. Then after that thinking of how the application will be set up to incorperate the clients requirments while taking into account the users and most important how all the data being handled will be secured.  Overall, I would think that these stategies will work well with future design projects. 
 </h4>
