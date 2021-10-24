@@ -34,8 +34,25 @@ For the most part, this design document helped me better understand exact what t
 
 <br>
 <h4>
-The section that I would very much pick to revise would be the recommendation 
-- How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+The section that I would very much pick to revise would be the recommendation. Within my explinations, I tend to already think that the audience already has a baseline understanding of the basics.  A big example is when I made the recommendations under the Operating System Architectures, I talked about using a space saver type of architecture that would utilize multipe servers.  In order for this to work the absolute first step would be to have the application set up as a client - server.  My mistake was assumeing that at this point the application is already set up in this way but much needed revision would be starting from the basics of mentioning the very first step and then waling the audience through to my ultimate recommendation.  
+</h4>
 
+<br>
 
-- How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+- <h3>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</h3>
+
+<br>
+
+<h4>
+Assuming the typical user is like myself, which means that if the application is sluggish or I feel like my information is not protected, then I wont use it.  Its extremely important to take the user's needs into consideration because at the end of the day, they are the ones building value in the product. They will be intrusting this application to run smooth and effectivly as well as having securities built in for their protection.  In this design document, there are alot of explantions on how to have the application run efficiently by utilizing RAM storage over hard drive storage and for protection explantions focus on user authentication and sessions as well as building in different types of encryptions.  Having an effecient and secure application is usually the end goal. 
+</h4>
+
+<br>
+
+- <h3>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</h3>
+
+<br>
+
+<h4>
+
+</h4>
